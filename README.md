@@ -1,3 +1,27 @@
+## Discode-clone 🚀 🚀 🚀
+Live Demo 👉 https://discord-clone-a2d7b.web.app/
+
+![Screenshot from 2021-02-13 18-08-56](https://user-images.githubusercontent.com/74534919/107850376-d61df700-6e27-11eb-8768-4cb0def99a21.png)
+
+![Screenshot from 2021-02-13 18-09-25](https://user-images.githubusercontent.com/74534919/107850382-e8983080-6e27-11eb-94fb-09685fb5381d.png)
+
+
+
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+     <li>Redux</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+    <li>Email-Password-Authentication-firebase</li>
+    
+  </ul>
+</details>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
