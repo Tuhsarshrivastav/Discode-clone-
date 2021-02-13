@@ -11,7 +11,7 @@ const Login = () => {
     <div className="login">
       <div className="login__logo">
         <img
-          src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/98/Discord_logo.svg/800px-Discord_logo.svg.png"
+          src="hhttps://download.logo.wine/logo/Discord_(software)/Discord_(software)-Logo.wine.png"
           alt="logo"
         />
       </div>
