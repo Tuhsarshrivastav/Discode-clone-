@@ -16,8 +16,8 @@ Live Demo 👉 https://discord-clone-a2d7b.web.app/
     <li>HTML-5</li>
     <li>Firebase</li>
     <li>material-UI/Icon</li>
-    <li>Email-Password-Authentication-firebase</li>
-    
+     <li>Real-time-chat-functionality</li>
+    <li>Google-Authentication-firebase</li>
   </ul>
 </details>
 
